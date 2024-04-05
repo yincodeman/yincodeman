@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yibo Yin, graduated from the MS Computer Science at The University oF Birmingham (Dubai).
+- 👋 Hi, I’m Yibo Yin, graduated from the MS Computer Science at The University of Birmingham (Dubai).
 - 👀 My research area lies in Deep Learning, Machine Learning, Artificial Interligence.
 - 🌱 I’m currently learning Deep Learning.
 - 💞️ I’m looking to collaborate on GenAI.
